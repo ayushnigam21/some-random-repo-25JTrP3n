@@ -1,0 +1,22 @@
+name: arlen.corwin
+description: User fork
+version: 1
+author: thad.fisher@gmail.com
+workflows:
+  workflows/W1:
+    name: W1
+    description: Really solid info
+    author: thad.fisher@gmail.com
+    mode: batch
+    language: scala
+    createdAt: '2022-01-05 22:33:12'
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules:
+  schedules/Carlita_Haley:
+    name: Carlita_Haley
+    description: Really solid info
+    createdAt: '2022-01-05 22:33:13'
+    author: thad.fisher@gmail.com
