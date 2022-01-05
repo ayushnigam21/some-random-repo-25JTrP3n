@@ -1,0 +1,5 @@
+version: '1'
+entityKind: Workflow
+aspects:
+- aspectKind: Info
+  content: '{"description":"Customer reports workflow"}'

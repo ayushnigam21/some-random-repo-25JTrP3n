@@ -1,0 +1,17 @@
+name: Some Project
+description: This is your brand new project
+version: 1
+author: eng@prophecy.io
+workflows:
+  workflows/customers_report:
+    name: Customers Report
+    description: Workflow description
+    author: null
+    createdAt: '2021-12-05 10:10:10'
+    language: scala
+    mode: batch
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules: {}
